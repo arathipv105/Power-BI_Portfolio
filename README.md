@@ -16,7 +16,7 @@ Second - Shopping trend based on location
 The telecom customer dashboards displays the various user types, contract types, and the number of male and female client. Similarly, Similarly, they provide figures for the number of clients who stopped using the services and those who continue to do so. The data clearly demonstrates that the largest percentage of clients who are dissatisfied with the services and have discontinued are those who have not received any offers.
 
 
-#Project 3- HR data Analytics
+# Project 3- HR data Analytics
 
 The HR analytics dashboard clearly demonstartes that most of the new comers who has been working in the company for less than a year shows maximum attrition rate. Similar trend is seen in the employees who have education background in Life Sciences followed by medical.
 Most of the employees are satisfied with their current job role and work life balance.
