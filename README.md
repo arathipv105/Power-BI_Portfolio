@@ -13,6 +13,8 @@ Second - Shopping trend based on location
 ![image](https://github.com/user-attachments/assets/c56db973-b4b9-4c2f-9510-3e4012e5f780)
 
 
+
+
 # Project 2- Telecom Customers
 
 The telecom customer dashboards displays the various user types, contract types, and the number of male and female client. Similarly,  they provide figures for the number of clients who stopped using the services and those who continue to do so. The data clearly demonstrates that the largest percentage of clients who are dissatisfied with the services and have discontinued are those who have not received any offers.
@@ -30,5 +32,10 @@ The HR  dashboard is divided to three slides-the FIRST slide displays general da
 ![image](https://github.com/user-attachments/assets/64186144-45bf-4639-aa84-cddae9532ed8)
 ![image](https://github.com/user-attachments/assets/be8feab7-f9ba-4a68-9172-5bdca4ebdf9d)
 
+# Project 4- Data Professional Survey Breakdown
+
+A survey taken among the employees on their Job - Worklife Balance, Salary and the coding language mostly used for in their day to day work.
+
+![image](https://github.com/user-attachments/assets/d59d95c4-6d34-4d0f-9a43-6c217cc04c1a)
 
 
