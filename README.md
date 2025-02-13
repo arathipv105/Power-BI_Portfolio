@@ -19,6 +19,7 @@ The telecom customer dashboards displays the various user types, contract types,
 # Project 3- HR Dashboard
 
 The HR  dashboard is divided to three slides-the FIRST slide displays general data such as the overall number of workers, the proportion of men and women employees, their job levels, and the number of employees who are eligible for promotion.SECOND sheet- lists the employees who are retrenched yet eligible for promotion. The majority of layoffs occur among employees who are not qualified for promotions.THIRD slide shows that Of the 1470 workers, 893 rated work-life balance as "GOOD" and 153 as "EXCELLENT" and 459 employees are extremely satisfied with their job role. 44 layoffs occurred in the manager position, followed by 20 layoffs each for the sales executive and research director positions.
+
 ![image](https://github.com/user-attachments/assets/773263f3-3007-4c55-950e-2690e735f2c0)
 ![image](https://github.com/user-attachments/assets/64186144-45bf-4639-aa84-cddae9532ed8)
 ![image](https://github.com/user-attachments/assets/be8feab7-f9ba-4a68-9172-5bdca4ebdf9d)
