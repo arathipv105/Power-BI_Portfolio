@@ -45,7 +45,7 @@ A survey taken among the employees on their Job - Worklife Balance, Salary and t
 # Project 5- Using DAX
 
 Using DAX to find- Count of Sales, Profit and Order Size.
-Count of Sales = COUNT('Apocolypse Sales'[Order ID])
+## Count of Sales = COUNT('Apocolypse Sales'[Order ID])
 Order_size = IF('Apocolypse Sales'[Units Sold]>25, "Big Order", "Small Order")
 Profit = (SUM('Apocolypse Store'[Price]) - SUM('Apocolypse Store'[Production Cost]))* SUM('Apocolypse Sales'[Units Sold])
 Profit_Sum = (SUM('Apocolypse Store'[Price]) - SUM('Apocolypse Store'[Production Cost])) * SUM('Apocolypse Sales'[Units Sold])
