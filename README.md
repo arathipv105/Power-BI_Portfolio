@@ -14,6 +14,8 @@ Second - Shopping trend based on location
 # Project 2- Telecom Customers
 
 The telecom customer dashboards displays the various user types, contract types, and the number of male and female client. Similarly, Similarly, they provide figures for the number of clients who stopped using the services and those who continue to do so. The data clearly demonstrates that the largest percentage of clients who are dissatisfied with the services and have discontinued are those who have not received any offers.
+![image](https://github.com/user-attachments/assets/2714e80c-e94c-4a61-bee5-6cb201dfc8d1)
+
 
 
 # Project 3- HR Dashboard
