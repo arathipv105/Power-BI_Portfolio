@@ -32,10 +32,25 @@ The HR  dashboard is divided to three slides-the FIRST slide displays general da
 ![image](https://github.com/user-attachments/assets/64186144-45bf-4639-aa84-cddae9532ed8)
 ![image](https://github.com/user-attachments/assets/be8feab7-f9ba-4a68-9172-5bdca4ebdf9d)
 
+
+
 # Project 4- Data Professional Survey Breakdown
 
 A survey taken among the employees on their Job - Worklife Balance, Salary and the coding language mostly used for in their day to day work.
 
 ![image](https://github.com/user-attachments/assets/d59d95c4-6d34-4d0f-9a43-6c217cc04c1a)
+
+
+
+# Project 5- Using DAX
+
+Using DAX to find- Count of Sales, Profit and Order Size.
+Count of Sales = COUNT('Apocolypse Sales'[Order ID])
+Order_size = IF('Apocolypse Sales'[Units Sold]>25, "Big Order", "Small Order")
+Profit = (SUM('Apocolypse Store'[Price]) - SUM('Apocolypse Store'[Production Cost]))* SUM('Apocolypse Sales'[Units Sold])
+Profit_Sum = (SUM('Apocolypse Store'[Price]) - SUM('Apocolypse Store'[Production Cost])) * SUM('Apocolypse Sales'[Units Sold])
+Profit_Sumx = SUMX('Apocolypse Sales', ('Apocolypse Store'[Price] - 'Apocolypse Store'[Production Cost] )* 'Apocolypse Sales'[Units Sold])
+![image](https://github.com/user-attachments/assets/37bd4113-82c8-42f0-95a7-b2b2ac85237b)
+
 
 
